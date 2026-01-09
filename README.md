@@ -11,7 +11,9 @@
 ### About me:
 BSc student at **Innopolis University (B24)** on the **Artificial Intelligence** track. I’m developing in **classical ML** and **NLP** with a math-oriented approach (optimization methods, probability, rigorous evaluation).
 
-**Location:** Innopolis, Russia
+<p>
+  <img src="https://img.shields.io/badge/Location-Innopolis%2C%20Russia-111111?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+</p>
 
 ### What I do:
 - Learn fast and go deep: understand the problem, read docs/papers, validate assumptions  
@@ -19,7 +21,7 @@ BSc student at **Innopolis University (B24)** on the **Artificial Intelligence**
 - **ML → production**: inference pipelines and **FastAPI** endpoints  
 - Telegram products: bots + Mini Apps with backend logic & integrations  
 
-### Featured project (GitLab):
+### <img src="https://skillicons.dev/icons?i=gitlab" height="18" alt="GitLab" /> Featured project:
 - **Telemedicine Platform** — Telegram AI symptom assistant + web app for doctor discovery & scheduling, multi-format consultations (text/voice/video).
   <a href="https://gitlab.pg.innopolis.university/team-47/med-app-tele-medicine">
     <img src="https://img.shields.io/badge/GitLab-med--app--tele--medicine-111111?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab project" />
@@ -44,7 +46,7 @@ BSc student at **Innopolis University (B24)** on the **Artificial Intelligence**
 </td>
 <td width="42%" valign="top">
 
-### Stack:
+### <img src="https://skillicons.dev/icons?i=github" height="18" alt="Stack" /> Stack
 <p>
   <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PyTorch-111111?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -61,7 +63,7 @@ BSc student at **Innopolis University (B24)** on the **Artificial Intelligence**
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,postgres,docker,nginx,linux,git,c,cpp,java&perline=6" alt="skills" />
 </p>
 
-### Stats:
+### <img src="https://skillicons.dev/icons?i=github" height="18" alt="Stats" /> Stats
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karimkhab&theme=github_dark" alt="stats card" />
 </p>
