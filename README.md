@@ -46,21 +46,20 @@ BSc student at **Innopolis University (B24)** on the **Artificial Intelligence**
 </td>
 <td width="42%" valign="top">
 
-### <img src="https://skillicons.dev/icons?i=github" height="18" alt="Stack" /> Stack
+### Stack
 <p>
   <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PyTorch-111111?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/scikit--learn-111111?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/pandas-111111?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Nginx-111111?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,postgres,docker,nginx,linux,git,c,cpp,java&perline=6" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,django,pycharm,fastapi,mysql,docker,git,c,cpp,java&perline=6" alt="skills" />
 </p>
 
 ### <img src="https://skillicons.dev/icons?i=github" height="18" alt="Stats" /> Stats
