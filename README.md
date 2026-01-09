@@ -1,75 +1,77 @@
 <div align="center">
-  <img src="./assets/main.gif" width="560" alt="banner gif" />
-  
+  <img src="./assets/main.gif" width="300" alt="banner gif" />
   <h1>Khabirakhmanov Karim</h1>
-  <p><b> · Innopolis University (B24)· Artificial Intelligence · Machine Learning </p>
-
-  <!-- Tech badges (compact but readable) -->
-  <p>
-    <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/PyTorch-111111?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-    <img src="https://img.shields.io/badge/scikit--learn-111111?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-    <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-    <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/Nginx-111111?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
-    <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
-    <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  </p>
-
-  <!-- Icons row (aesthetic) -->
-  <p>
-    <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,postgres,docker,nginx,linux,git,c,cpp,java&perline=12" alt="skills" />
-  </p>
+  <p><b>Innopolis University (B24)</b> · Artificial Intelligence · Machine Learning</p>
 </div>
 
----
+<table>
+<tr>
+<td width="58%" valign="top">
 
-## About
-
-I'm a BSc student at **Innopolis University (B24)** working in **ML / Data**.  
-My current emphasis is on: **mathematical foundations**, **optimization methods**, **classical ML**, and **NLP** — with a strong bias toward practical implementation.
+### About me:
+BSc student at **Innopolis University (B24)** on the **Artificial Intelligence** track. I’m developing in **classical ML** and **NLP** with a math-oriented approach (optimization methods, probability, rigorous evaluation).
 
 **Location:** Innopolis, Russia
 
----
+### What I do:
+- Learn fast and go deep: understand the problem, read docs/papers, validate assumptions  
+- Build **MVPs**: turn an idea into a working product with clear architecture  
+- **ML → production**: inference pipelines and **FastAPI** endpoints  
+- Telegram products: bots + Mini Apps with backend logic & integrations  
 
-## What I do (practically)
+### Featured project (GitLab):
+- **Telemedicine Platform** — Telegram AI symptom assistant + web app for doctor discovery & scheduling, multi-format consultations (text/voice/video).
+  <a href="https://gitlab.pg.innopolis.university/team-47/med-app-tele-medicine">
+    <img src="https://img.shields.io/badge/GitLab-med--app--tele--medicine-111111?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab project" />
+  </a>
 
-- Build **ML services & APIs**: training/inference pipelines → clean endpoints (FastAPI), integrations, and reproducible runs.
-- Deliver **MVPs fast**: from idea → working system with clear interfaces, maintainable structure, and deploy-ready setup.
-- Develop **Telegram products**: bots + Telegram Mini Apps with backend logic (auth/roles, webhooks, integrations).
-- Work with **data & NLP**: preprocessing, embeddings, retrieval/classification, evaluation, experiment tracking.
+### Contacts:
+<p>
+  <a href="mailto:khabibrakhkarim@gmail.com">
+    <img src="https://img.shields.io/badge/Email-khabibrakhkarim%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://t.me/Karimkhab">
+    <img src="https://img.shields.io/badge/Telegram-@Karimkhab-111111?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://habr.com/ru/users/KarimKhabib/">
+    <img src="https://img.shields.io/badge/Habr-Profile-111111?style=flat-square&logo=habr&logoColor=white" alt="Habr" />
+  </a>
+  <a href="https://www.instagram.com/pahhhhhhan/">
+    <img src="https://img.shields.io/badge/Instagram-@pahhhhhhan-111111?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
----
+</td>
+<td width="42%" valign="top">
 
-## Stack
+### Stack:
+<p>
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-111111?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-111111?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nginx-111111?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
 
-**Primary**
-- **Python**, SQL
-- **PyTorch**, scikit-learn, NumPy, pandas
-- **FastAPI**, REST, async basics
-- **PostgreSQL**
-- **Docker**, Linux, Git
-- **Nginx** (reverse proxy / routing)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,postgres,docker,nginx,linux,git,c,cpp,java&perline=6" alt="skills" />
+</p>
 
-**Also used**
-- C, C++, Java (coursework & practical usage)
+### Stats:
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karimkhab&theme=github_dark" alt="stats card" />
+</p>
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karimkhab&theme=github_dark" alt="profile details" />
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com?user=Karimkhab&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</p>
 
----
-
-## Contacts
-
-- Email: **khabibrakhkarim@gmail.com**
-- Telegram: https://t.me/Karimkhab
-- Habr: https://habr.com/ru/users/KarimKhabib/
-- Instagram: https://www.instagram.com/pahhhhhhan/
-
----
-
-## GitHub stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Karimkhab&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Karimkhab&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-</div>
+</td>
+</tr>
+</table>
