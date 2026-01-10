@@ -69,9 +69,6 @@ BSc student at **Innopolis University (B24)** on the **Artificial Intelligence**
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karimkhab&theme=github_dark" alt="profile details" />
 </p>
-<p>
-  <img src="https://streak-stats.demolab.com?user=Karimkhab&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-</p>
 
 </td>
 </tr>
