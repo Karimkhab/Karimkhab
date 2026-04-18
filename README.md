@@ -1,73 +1,111 @@
 <div align="center">
   <img src="./assets/main.gif" width="300" alt="banner gif" />
   <h1>Khabirakhmanov Karim</h1>
-  <p><b>Innopolis University (B24)</b> · Artificial Intelligence · Machine Learning</p>
+  <h3>AI / ML Engineer</h3>
+  <p><b>LLM Agents</b> · <b>ML Systems</b> · <b>Distributed AI</b></p>
+  <p>
+    <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer;LLM+Agents;ML+Systems;Distributed+AI&center=true&width=440&height=45&color=FFFFFF&background=11111100" alt="Typing SVG" />
+  </p>
+  <p>
+    <a href="mailto:khabibrakhkarim@gmail.com">
+      <img src="https://img.shields.io/badge/Email-khabibrakhkarim%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://t.me/Karimkhab">
+      <img src="https://img.shields.io/badge/Telegram-@Karimkhab-111111?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+    <a href="https://habr.com/ru/users/KarimKhabib/">
+      <img src="https://img.shields.io/badge/Habr-Profile-111111?style=flat-square&logo=habr&logoColor=white" alt="Habr" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=Karimkhab&style=flat-square&color=111111" alt="profile views" />
+  </p>
 </div>
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-### About me:
-BSc student at **Innopolis University (B24)** on the **Artificial Intelligence** track. I’m developing in **classical ML** and **NLP** with a math-oriented approach (optimization methods, probability, rigorous evaluation).
+### About
 
-<p>
-  <img src="https://img.shields.io/badge/Location-Innopolis%2C%20Russia-111111?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-</p>
+I build AI systems, not just models.<br>
+LLM agents, ML pipelines, distributed architectures.
 
-### What I do:
-- Learn fast and go deep: understand the problem, read docs/papers, validate assumptions  
-- Build **MVPs**: turn an idea into a working product with clear architecture  
-- **ML → production**: inference pipelines and **FastAPI** endpoints  
-- Telegram products: bots + Mini Apps with backend logic & integrations  
+### Projects
 
-### <img src="https://skillicons.dev/icons?i=gitlab" height="18" alt="GitLab" /> Featured project:
-- **Telemedicine Platform** — Telegram AI symptom assistant + web app for doctor discovery & scheduling, multi-format consultations (text/voice/video).
-  <a href="https://gitlab.pg.innopolis.university/team-47/med-app-tele-medicine">
-    <img src="https://img.shields.io/badge/GitLab-med--app--tele--medicine-111111?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab project" />
-  </a>
+#### LogCopilot — AI Log Intelligence
 
-### Contacts:
-<p>
-  <a href="mailto:khabibrakhkarim@gmail.com">
-    <img src="https://img.shields.io/badge/Email-khabibrakhkarim%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://t.me/Karimkhab">
-    <img src="https://img.shields.io/badge/Telegram-@Karimkhab-111111?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://habr.com/ru/users/KarimKhabib/">
-    <img src="https://img.shields.io/badge/Habr-Profile-111111?style=flat-square&logo=habr&logoColor=white" alt="Habr" />
-  </a>
-  <a href="https://www.instagram.com/pahhhhhhan/">
-    <img src="https://img.shields.io/badge/Instagram-@pahhhhhhan-111111?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+`logs -> parsing -> clustering -> storage -> LLM agent`
+
+- Semantic clustering with MiniLM embeddings
+- Incident detection and aggregation
+- Agent over structured data, not raw logs
+
+**Focus:** ML + systems + agents
+
+#### Shamir Secret Sharing — Distributed System
+
+`API -> RabbitMQ -> workers -> response queues`
+
+- FastAPI + RabbitMQ worker architecture
+- Async request-response correlation
+- SHA-256 integrity validation, no secret persistence
+
+**Focus:** distributed systems + service isolation
+
+#### LLM Agents System
+
+`retriever -> pros -> cons -> ranker -> coordinator`
+
+- ReAct tool-calling agent
+- Memory agent with short-term and long-term state
+- Explicit multi-agent orchestration
+
+**Focus:** planning + tool-use + orchestration
+
+#### Countdown Distillation (in progress)
+
+`teacher -> generated supervision -> student`
+
+- Cross-tokenizer teacher-student setup
+- Off-policy training under GPU/memory limits
+- Analysis of safe-output bias in LLM generations
+
+**Focus:** efficient training + LLM alignment
 
 </td>
 <td width="42%" valign="top">
 
-### Stack
-<p>
-  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-111111?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/scikit--learn-111111?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/pandas-111111?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white" alt="Git" />
+### Visual Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,docker,rabbitmq,postgres,mongodb,neo4j,git,github,pycharm&perline=4" alt="skills" />
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,django,pycharm,fastapi,mysql,docker,git,c,cpp,java&perline=6" alt="skills" />
+<p align="center">
+  <img src="https://img.shields.io/badge/LLM_Agents-111111?style=for-the-badge" alt="LLM Agents" />
+  <img src="https://img.shields.io/badge/RAG-111111?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/Embeddings-111111?style=for-the-badge" alt="Embeddings" />
+  <img src="https://img.shields.io/badge/LangChain-111111?style=for-the-badge" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-111111?style=for-the-badge" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Transformers-111111?style=for-the-badge" alt="Transformers" />
 </p>
 
-### <img src="https://skillicons.dev/icons?i=github" height="18" alt="Stats" /> Stats
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karimkhab&theme=github_dark" alt="stats card" />
-</p>
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karimkhab&theme=github_dark" alt="profile details" />
+### Currently
+
+- Building LLM agents with tools and memory
+- Developing a B2B log intelligence system
+- Working on teacher -> student distillation
+
+### Achievements
+
+- 1st place — T-Bank Code & Sport (2026)
+- Hackathon participant (2026)
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karimkhab&theme=github_dark" width="92%" alt="stats card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karimkhab&theme=github_dark" width="92%" alt="repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karimkhab&theme=github_dark" width="92%" alt="activity graph" />
 </p>
 
 </td>
