@@ -68,9 +68,7 @@ Work on ML systems and LLM-based pipelines.
 
 - Fine-tuned LLMs (LoRA / QLoRA, 4-bit quantization)  
 
-- Built training pipelines and dataset preprocessing  
-
-- Worked with FastAPI services and inference    
+- Built training pipelines and dataset preprocessing
 
 ---
 
