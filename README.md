@@ -97,6 +97,12 @@ Work on ML systems and LLM-based pipelines.
 - Hackathon participant — Telegram Ads Forecasting
 - ML Intern at Yandex
  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karimkhab&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karimkhab&theme=github_dark" />
+<img src="https://streak-stats.demolab.com?user=Karimkhab&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=Karimkhab&show_icons=true&theme=dark" />
+
 
 </td>
 </tr>
