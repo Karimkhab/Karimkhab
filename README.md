@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/sakura.jpg" width="1000" alt="banner gif" />
+<img src="./assets/catana-up.jpg" width="1000" alt="banner gif" />
 
 
   </p>
@@ -56,4 +56,4 @@ Build ML systems and LLM-based pipelines end-to-end.
 
 
 
-<img src="./assets/catana.jpg" width="1000" alt="banner gif" />
+<img src="./assets/catana-down.png" width="1000" alt="banner gif" />
